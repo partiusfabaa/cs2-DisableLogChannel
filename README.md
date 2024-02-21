@@ -1,5 +1,5 @@
 # cs2-DisableLogChannel
-disables sending cs2 logs
+### turns off cs2 log channels
 
 # Installation
 1. Install [CounterStrike Sharp](https://github.com/roflmuffin/CounterStrikeSharp) and [Metamod:Source](https://www.sourcemm.net/downloads.php/?branch=master)
