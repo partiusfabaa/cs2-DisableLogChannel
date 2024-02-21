@@ -1,3 +1,5 @@
+# [LINUX ONLY]
+
 # cs2-DisableLogChannel
 ### turns off cs2 log channels
 
